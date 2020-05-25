@@ -1,0 +1,1 @@
+gcc -O3 main.c cpu.c display.c ram.c input.c loadrom.c -o chip8 -lmingw32 -lSDL2main -lSDL2
